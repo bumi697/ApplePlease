@@ -1,0 +1,24 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/UserSettings/
+
+# 资源缓存
+/[Aa]ssets/AssetStoreTools*
+
+# Rider / Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# 系统杂项
+*.log
+.DS_Store
+Thumbs.db
